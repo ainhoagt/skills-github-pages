@@ -1,5 +1,5 @@
 ---
-title: Ainhoita_gt
+title: "my-pages"
 body: Hola holita
 ---
 
