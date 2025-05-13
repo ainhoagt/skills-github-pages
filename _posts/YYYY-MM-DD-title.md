@@ -1,5 +1,4 @@
 ---
 title: "my-pages"
-body: Hola holita
+date: 2003-05-13
 ---
-
